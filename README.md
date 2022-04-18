@@ -7,7 +7,7 @@
 <br />
 <br />
 
-### I'm working on idle and arcade idle games at Forge Games
+### I'm working on idle and arcade idle games at Forge Games. I am also studying computer engineering at university and I am in my final year.
 
 <br />
 
@@ -21,14 +21,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width=25 heigth=25 align="left" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=25 heigth=25 align="left" />
 
-
-<br />
-<br />
-
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src"https://github-readme-stats.vercel.app/api?username=enesyesilyurt&theme=radical">
-</details>
 
 
 
