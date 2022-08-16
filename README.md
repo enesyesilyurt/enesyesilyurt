@@ -7,7 +7,7 @@
 <br />
 <br />
 
-### I'm working on idle and arcade idle games at Forge Games. I am also studying computer engineering at university and I am in my final year.
+### I'm working on idle and arcade idle games at Forge Games.
 
 <br />
 
