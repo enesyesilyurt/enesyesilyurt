@@ -7,7 +7,7 @@
 <br />
 <br />
 
-### I'm working on idle and arcade idle games at Forge Games.
+### I'm working on mobile games at ArcadeClan.
 
 <br />
 
