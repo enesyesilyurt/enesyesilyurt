@@ -11,7 +11,7 @@
 
 <br />
 
-### I’m currently learning artificle intelligence and artificial neural network.
+### I’m currently learning casual games, artificle intelligence and artificial neural network.
 <br />
 
 ### Tech I Use
