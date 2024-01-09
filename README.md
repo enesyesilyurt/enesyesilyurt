@@ -7,12 +7,10 @@
 <br />
 <br />
 
-### I'm working on mobile games at ArcadeClan.
+### I'm working on mobile games at Spyke.
 
 <br />
 
-### I’m currently learning casual games, artificle intelligence and artificial neural network.
-<br />
 
 ### Tech I Use
 
